@@ -1,0 +1,19 @@
+dataSource:
+   url: jdbc:mysql://192.168.18.232:3306/hallcore?useSSL=false
+   driver: com.mysql.cj.jdbc.Driver
+   userName: root
+   password: mslc8888
+
+global:
+   root: D:/workspace_c/demo
+   sourcePath: /src/main/java
+   author: liujiawei
+
+package:
+   moduleName: 
+   parent: com.mybatisplus.demo
+   entityPackageName: model
+
+strategy:
+   include: .*
+   superEntityColumns:      
