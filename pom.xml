@@ -12,7 +12,7 @@
 	<groupId>com.mybatisplus.autogenerator</groupId>
 	<artifactId>autogenerator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>autogenerator</name>
+	<name>mybatis-code-auto-generator</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
